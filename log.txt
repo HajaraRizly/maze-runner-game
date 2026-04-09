@@ -1,0 +1,2 @@
+Invalid stair [1,4,20]->[2,7,20]: cell not present
+Invalid stair: [0,8,20] -> [0,3,12]. Stairs must go from a lower floor to a higher floor.
